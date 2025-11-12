@@ -20,13 +20,13 @@ Grâce à un modèle sémantique de prédiction, elle calcule un score de confia
 
 L’application est basée sur une architecture 3-tiers :
 
-Frontend : Angular (interfaces utilisateur, MVC côté client)
+* Frontend : Angular (interfaces utilisateur, MVC côté client)
 
-Backend : Spring Boot (API REST, logique métier)
+* Backend : Spring Boot (API REST, logique métier)
 
-Base de données : MySQL
+* Base de données : MySQL
 
-IA & Web Scraping : Python (analyse sémantique, calcul du score)
+* IA & Web Scraping : Python (analyse sémantique, calcul du score)
 
 # Technologies utilisées
 
