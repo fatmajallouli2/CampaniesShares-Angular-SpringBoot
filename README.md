@@ -30,11 +30,11 @@ IA & Web Scraping : Python (analyse sémantique, calcul du score)
 
 # Technologies utilisées
 
-Frontend:	Angular, HTML5, CSS3, Bootstrap
-Backend:	Java, Spring Boot, Tomcat
-Base de données: MySQL
-Intelligence Artificielle & Scraping:	Python, BeautifulSoup, NLTK, NumPy
-Outils de développement: Visual Studio Code, Eclipse, Postman, Overleaf, WhiteStarUML
+* Frontend:	Angular, HTML5, CSS3, Bootstrap
+* Backend:	Java, Spring Boot, Tomcat
+* Base de données: MySQL
+* Intelligence Artificielle & Scraping:	Python, BeautifulSoup, NLTK, NumPy
+* Outils: Power BI, Postman
 
 # Fonctionnalités principales
 
